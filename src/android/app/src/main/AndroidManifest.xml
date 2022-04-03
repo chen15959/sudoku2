@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.sudoku2">
    <application
-        android:label="sudoku2"
+        android:label="小数独"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
